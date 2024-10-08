@@ -27,7 +27,7 @@ img{
   
   .menu-card h1 {
     font-size: 2em;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     text-align: center;
     
   }
@@ -83,13 +83,13 @@ img{
   }
   
   .category-slide {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     flex-direction: column;
   }
   
   .category-slide h1 {
     font-size: 24px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
   
   .category-slide p {
